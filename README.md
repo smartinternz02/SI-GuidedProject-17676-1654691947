@@ -17,7 +17,7 @@ Trailhead puts the learner at the heart of everything we do. Bite-sized, convers
 
 ## My Profile
 <div>
-  <img src="https://github.com/DeependraParichha1004/Trailhead-Solutions/blob/main/Img/trailhead_profile.PNG">
+  <img src="https://github.com/smartinternz02/SI-GuidedProject-17676-1654691947/blob/main/Img/trailhead_profile.PNG">
 </div>
 
 <a href="https://trailblazer.me/id?lang=en_US">Trailhead Profile</a>
